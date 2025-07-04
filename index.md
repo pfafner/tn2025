@@ -50,11 +50,11 @@ En este curso se realizarán varios seminarios, los cuales serán indicados más
 
 ### Textos:
 
-* [D. Burton (2011). *Elementary Number Theory*.](http://library.lol/main/6AEB8896359F4EF338DF6D1BE995132B){:target="_blank"}
+* [D. Burton (2011). *Elementary Number Theory*.](https://libgen.li/ads.php?md5=c168c95552572b4660b7e4fcf3341c16){:target="_blank"}
 
-* [I. Niven, N. Zuckerman (1991). *An Introduction to the Theory of Numbers*.](http://library.lol/main/283DAE3A05E051CBC0177ECACAB1C875){:target="_blank"}
+* [I. Niven, N. Zuckerman (1991). *An Introduction to the Theory of Numbers*.](https://libgen.li/ads.php?md5=693ab655305c767adebf75df985c7abd){:target="_blank"}
 
-* [T. Apostol (2010). *Introduction to Analytic Number Theory*.](http://library.lol/main/B1D5FE65979AB622AA235F7539439EEB){:target="_blank"}
+* [T. Apostol (2010). *Introduction to Analytic Number Theory*.](https://libgen.li/ads.php?md5=b1d5fe65979ab622aa235f7539439eeb){:target="_blank"}
 
 ### Referencias adicionales:
 
