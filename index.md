@@ -38,6 +38,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 **No.**  | **Fecha**    | **Tópicos**                                                  | **Recursos**
 -------- | ------------ | ------------------------------------------------------------ |  ---------------------------
 01       | 04.07.2025   | Generalidades del curso. Motivación histórica.  | Burton, secciones 1.1, 1.2 y 2.1
+L1       | 04.07.2025   |  | [Lista 1](listas/lista01.pdf){:target="_blank"} <br/> **Fecha de entrega: lunes 14 de julio.**
 
 
 # Seminarios
