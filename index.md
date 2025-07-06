@@ -67,7 +67,7 @@ En este curso se realizarán varios seminarios, los cuales serán indicados más
 
 * [W. Stillwell (2003). *Elements of Number Theory*.](https://libgen.li/ads.php?md5=8d97dc6854cf341e9a2f945731df985f){:target="_blank"}
 
-* [I. N. Vinogradov (1954). *Elements of Number Theory*.](http://library.lol/main/141CE1567A52C047D7662412676465B7){:target="_blank"}
+* [I. N. Vinogradov (1954). *Elements of Number Theory*.](https://libgen.li/ads.php?md5=5a4f5de42905f203d9496dc971b49e81){:target="_blank"}
 
 * [F. Brochero, C. Moreira, N. Saldanha, E. Tengan (2012). *Teoria dos Números*. IMPA.](){:target="_blank"}
 
