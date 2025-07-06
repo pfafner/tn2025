@@ -61,7 +61,7 @@ En este curso se realizarán varios seminarios, los cuales serán indicados más
 
 * [G. Jones, J. M. Jones (1998). *Elementary Number Theory*.](https://libgen.li/ads.php?md5=8d8d1cda930ffd6693c2d046e5f27331){:target="_blank"}
 
-* [K. Rosen (2011). *Elementary Number Theory and Its Applications*.](http://library.lol/main/4F17982CE43B7BB0AE7543C1946A22DD){:target="_blank"}
+* [K. Rosen (2011). *Elementary Number Theory and Its Applications*.](https://libgen.li/ads.php?md5=4f17982ce43b7bb0ae7543c1946a22dd){:target="_blank"}
 
 * [W. Stein (2009). *Elementary Number Theory: Primes, Congruences and Secrets*.](http://library.lol/main/2ED90C02E93FFBA7BE648FBC0C72BD11){:target="_blank"}
 
