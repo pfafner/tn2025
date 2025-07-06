@@ -59,7 +59,7 @@ En este curso se realizarán varios seminarios, los cuales serán indicados más
 
 ### Referencias adicionales:
 
-* [G. Jones, J. M. Jones (1998). *Elementary Number Theory*.](http://library.lol/main/8D8D1CDA930FFD6693C2D046E5F27331){:target="_blank"}
+* [G. Jones, J. M. Jones (1998). *Elementary Number Theory*.](https://libgen.li/ads.php?md5=8d8d1cda930ffd6693c2d046e5f27331){:target="_blank"}
 
 * [K. Rosen (2011). *Elementary Number Theory and Its Applications*.](http://library.lol/main/4F17982CE43B7BB0AE7543C1946A22DD){:target="_blank"}
 
