@@ -71,7 +71,7 @@ En este curso se realizarán varios seminarios, los cuales serán indicados más
 
 * [S. C. Coutinho (2014). *Números Inteiros e Criptografia RSA*.](https://libgen.li/ads.php?md5=bf852b59eab1730cb329f1b954ea8fa0){:target="_blank"}
 
-* [P. Ribenboim (1999). *Fermat's Last Theorem for Amateurs*. Springer.](http://library.lol/main/30FE5DA3F187B37B980A0C2EA048E563){:target="_blank"}
+* [P. Ribenboim (1999). *Fermat's Last Theorem for Amateurs*. Springer.](https://libgen.li/ads.php?md5=88a5688acfe794b15e0db7aa5e776689){:target="_blank"}
 
 ### Referencias avanzadas:
 
