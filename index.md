@@ -63,7 +63,7 @@ En este curso se realizarán varios seminarios, los cuales serán indicados más
 
 * [K. Rosen (2011). *Elementary Number Theory and Its Applications*.](https://libgen.li/ads.php?md5=4f17982ce43b7bb0ae7543c1946a22dd){:target="_blank"}
 
-* [W. Stein (2009). *Elementary Number Theory: Primes, Congruences and Secrets*.](http://library.lol/main/2ED90C02E93FFBA7BE648FBC0C72BD11){:target="_blank"}
+* [W. Stein (2009). *Elementary Number Theory: Primes, Congruences and Secrets*.](https://libgen.li/ads.php?md5=361cace026af37dbf6eb9030e6af8f10){:target="_blank"}
 
 * [W. Stillwell (2003). *Elements of Number Theory*.](http://library.lol/main/8D97DC6854CF341E9A2F945731DF985F){:target="_blank"}
 
