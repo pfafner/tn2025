@@ -69,10 +69,6 @@ En este curso se realizarán varios seminarios, los cuales serán indicados más
 
 * [I. N. Vinogradov (1954). *Elements of Number Theory*.](https://libgen.li/ads.php?md5=5a4f5de42905f203d9496dc971b49e81){:target="_blank"}
 
-* [F. Brochero, C. Moreira, N. Saldanha, E. Tengan (2012). *Teoria dos Números*. IMPA.](){:target="_blank"}
-
-* [S. C. Coutinho (2010). *Números Inteiros e Criptografía RSA*. IMPA.](){:target="_blank"}
-
 * [P. Ribenboim (1999). *Fermat's Last Theorem for Amateurs*. Springer.](http://library.lol/main/30FE5DA3F187B37B980A0C2EA048E563){:target="_blank"}
 
 ### Referencias avanzadas:
