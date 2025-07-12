@@ -77,7 +77,7 @@ En este curso se realizarán varios seminarios, los cuales serán indicados más
 
 ### Referencias avanzadas:
 
-* [G. H. Hardy, E. M. Wright (1968). *Introduction to the Theory of Numbers*.](http://library.lol/main/F41AFCB0B44DD6DF662C40F9A302E6B4){:target="_blank"}
+* [G. H. Hardy, E. M. Wright (1968). *Introduction to the Theory of Numbers*.](https://libgen.li/ads.php?md5=ce16609390bc5de3d51129ab19b1c124){:target="_blank"}
 
 * [K. Chandrasekharan (1969). *Introduction to Analytic Number Theory*.](http://library.lol/main/0FA1AAF3AABDFC62EB756484BF620A34){:target="_blank"}
 
