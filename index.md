@@ -40,7 +40,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 01       | 04.07.2025   | Generalidades del curso. Motivación histórica. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} | Burton, secciones 1.1, 1.2 y 2.1
 L1       | 04.07.2025   |  | [Lista 1](listas/lista01.pdf){:target="_blank"} <br/> **Fecha de entrega: lunes 14 de julio.** 
 02       | 07.07.2025   | Divisibilidad. Propiedades. <br/>  [Aula 02](aulas/Aula02.pdf){:target="_blank"} | Burton, sección 2.2 
-03       | 11.07.2025   | Algoritmo de la División. MCD y MMC. <br/>  [Aula 03](aulas/Aula03.pdf){:target="_blank"} | Burton, sección 2.3 
+03       | 11.07.2025   | Algoritmo de la División. MDC y MMC. <br/>  [Aula 03](aulas/Aula03.pdf){:target="_blank"} | Burton, sección 2.3 
 
 
 # Seminarios
@@ -85,7 +85,7 @@ En este curso se realizarán varios seminarios, los cuales serán indicados más
 
 ### Solución de problemas (tipo olimpíadas):
 
-* [T. Andreescu, D. Andrica (2009). *Number Theory: Structures, Examples and Problems*.](http://library.lol/main/6C6479B9A92D0FF27F7C9B69487EEF60){:target="_blank"}
+* [T. Andreescu, D. Andrica (2009). *Number Theory: Structures, Examples and Problems*.](https://libgen.li/ads.php?md5=25ba0d75a32412cc8d9e226df20b4e60){:target="_blank"}
 
 * [T. Andreescu, D. Andrica, Z. Feng (2007). *104 Number Theory Problems*.](http://library.lol/main/C7E726B5AD1839E2779E72AF80BD4D67){:target="_blank"}
 
