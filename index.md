@@ -87,7 +87,7 @@ En este curso se realizarán varios seminarios, los cuales serán indicados más
 
 * [T. Andreescu, D. Andrica (2009). *Number Theory: Structures, Examples and Problems*.](https://libgen.li/ads.php?md5=25ba0d75a32412cc8d9e226df20b4e60){:target="_blank"}
 
-* [T. Andreescu, D. Andrica, Z. Feng (2007). *104 Number Theory Problems*.](http://library.lol/main/C7E726B5AD1839E2779E72AF80BD4D67){:target="_blank"}
+* [T. Andreescu, D. Andrica, Z. Feng (2007). *104 Number Theory Problems*.](https://libgen.li/ads.php?md5=c7e726b5ad1839e2779e72af80bd4d67){:target="_blank"}
 
 * [A. Engel (2001). *Problem-Solving Strategies*.](http://library.lol/main/E8D5738D9D309A7E130BEF688ED92A3F){:target="_blank"}
 
