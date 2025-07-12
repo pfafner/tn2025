@@ -79,7 +79,7 @@ En este curso se realizarán varios seminarios, los cuales serán indicados más
 
 * [G. H. Hardy, E. M. Wright (1968). *Introduction to the Theory of Numbers*.](https://libgen.li/ads.php?md5=ce16609390bc5de3d51129ab19b1c124){:target="_blank"}
 
-* [K. Chandrasekharan (1969). *Introduction to Analytic Number Theory*.](http://library.lol/main/0FA1AAF3AABDFC62EB756484BF620A34){:target="_blank"}
+* [K. Chandrasekharan (1969). *Introduction to Analytic Number Theory*.](https://libgen.li/ads.php?md5=0fa1aaf3aabdfc62eb756484bf620a34){:target="_blank"}
 
 * [K. Ireland, M. Rosen (1990). *A Classical Introduction to Modern Number Theory*.](http://library.lol/main/46587E85B377B9D01D2BDA4FDA9FCA4D){:target="_blank"}
 
