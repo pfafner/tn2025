@@ -41,6 +41,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 L1       | 04.07.2025   |  | [Lista 1](listas/lista01.pdf){:target="_blank"} <br/> **Fecha de entrega: lunes 14 de julio.** 
 02       | 07.07.2025   | Divisibilidad. Propiedades. <br/>  [Aula 02](aulas/Aula02.pdf){:target="_blank"} | Burton, sección 2.2 
 03       | 11.07.2025   | Algoritmo de la División. MDC y MMC. <br/>  [Aula 03](aulas/Aula03.pdf){:target="_blank"} | Burton, sección 2.3 
+04       | 14.07.2025   | Lema de Bézout. El Algoritmo de Euclides. <br/>  [Aula 04](aulas/Aula04.pdf){:target="_blank"} | Burton, secciones 2.3 y 2.4 
 
 
 # Seminarios
