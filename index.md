@@ -38,11 +38,12 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 **No.**  | **Fecha**    | **Tópicos**                                                  | **Recursos**
 -------- | ------------ | ------------------------------------------------------------ |  ---------------------------
 01       | 04.07.2025   | Generalidades del curso. Motivación histórica. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} | Burton, secciones 1.1, 1.2 y 2.1
-L1       | 04.07.2025   |  | [Lista 1](listas/lista01.pdf){:target="_blank"} <br/> **Fecha de entrega: lunes 14 de julio.** 
+L1       | 04.07.2025   |  | [Lista 1](listas/lista01.pdf){:target="_blank"} <br/> **Entrega: lunes 14 de julio** 
 02       | 07.07.2025   | Divisibilidad. Propiedades. <br/>  [Aula 02](aulas/Aula02.pdf){:target="_blank"} | Burton, sección 2.2 
 03       | 11.07.2025   | Algoritmo de la División. MDC y MMC. <br/>  [Aula 03](aulas/Aula03.pdf){:target="_blank"} | Burton, sección 2.3 
 04       | 14.07.2025   | Lema de Bézout. El Algoritmo de Euclides. <br/>  [Aula 04](aulas/Aula04.pdf){:target="_blank"} | Burton, secciones 2.3 y 2.4 
 05       | 18.07.2025   | Estimativas en el algoritmo de Euclides. <br/> |   
+L2       | 18.07.2025   |  | [Lista 2](listas/lista02.pdf){:target="_blank"} <br/> **Entrega: lunes 28 de julio** 
 
 
 # Seminarios
