@@ -42,8 +42,9 @@ L1       | 04.07.2025   |  | [Lista 1](listas/lista01.pdf){:target="_blank"} <br
 02       | 07.07.2025   | Divisibilidad. Propiedades. <br/>  [Aula 02](aulas/Aula02.pdf){:target="_blank"} | Burton, sección 2.2 
 03       | 11.07.2025   | Algoritmo de la División. MDC y MMC. <br/>  [Aula 03](aulas/Aula03.pdf){:target="_blank"} | Burton, sección 2.3 
 04       | 14.07.2025   | Lema de Bézout. El Algoritmo de Euclides. <br/>  [Aula 04](aulas/Aula04.pdf){:target="_blank"} | Burton, secciones 2.3 y 2.4 
-05       | 18.07.2025   | Estimativas en el algoritmo de Euclides. <br/> |   
+05       | 18.07.2025   | Estimativas en el algoritmo de Euclides. <br/>  [Aula 05](aulas/Aula05.pdf){:target="_blank"} |  
 L2       | 18.07.2025   |  | [Lista 2](listas/lista02.pdf){:target="_blank"} <br/> **Entrega: lunes 28 de julio** 
+06    
 
 
 # Seminarios
