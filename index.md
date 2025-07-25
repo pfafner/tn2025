@@ -24,7 +24,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 ### Horario
 <div id='id-horario'/>
 
-* Lunes de 19:50 a 21:25 CIT-419 y Viernes de 18:10 a 19:45 CIT-319.
+* Lunes de 19:50 a 21:25 CIT-419 y Viernes de 18:10 a 19:45 CIT-526.
 
 ### Office Hours
 <div id='id-office'/>
@@ -44,7 +44,8 @@ L1       | 04.07.2025   |  | [Lista 1](listas/lista01.pdf){:target="_blank"} <br
 04       | 14.07.2025   | Lema de Bézout. El Algoritmo de Euclides. <br/>  [Aula 04](aulas/Aula04.pdf){:target="_blank"} | Burton, secciones 2.3 y 2.4 
 05       | 18.07.2025   | Estimativas en el algoritmo de Euclides. <br/>  [Aula 05](aulas/Aula05.pdf){:target="_blank"} |  
 L2       | 18.07.2025   |  | [Lista 2](listas/lista02.pdf){:target="_blank"} <br/> **Entrega: lunes 28 de julio** 
-06       | 21.07.2025   | La ecuación ax + by = c. <br> | [Aula 06](aulas/Aula06.pdf){:target="_blank"} Burton, sección 2.4 
+06       | 21.07.2025   | La ecuación ax + by = c. <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} | Burton, sección 2.4 
+07       | 21.07.2025   | El Teorema Fundamental de la Aritmética. | Burton, sección 2.5  
 
 
 # Seminarios
