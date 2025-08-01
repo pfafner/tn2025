@@ -45,7 +45,8 @@ L1       | 04.07.2025   |  | [Lista 1](listas/lista01.pdf){:target="_blank"} <br
 05       | 18.07.2025   | Estimativas en el algoritmo de Euclides. <br/>  [Aula 05](aulas/Aula05.pdf){:target="_blank"} |  
 L2       | 18.07.2025   |  | [Lista 2](listas/lista02.pdf){:target="_blank"} <br/> **Entrega: lunes 28 de julio** 
 06       | 21.07.2025   | La ecuación ax + by = c. <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} | Burton, sección 2.4 
-07       | 25.07.2025   | El Teorema Fundamental de la Aritmética. | Burton, sección 2.5  
+07       | 25.07.2025   | El Teorema Fundamental de la Aritmética. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Burton, sección 2.5  
+08       | 28.07.2025   | Números primos. Curiosidades y problemas abiertos. <br/> [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Burton, sección 2.5  
 
 
 # Seminarios
