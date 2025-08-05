@@ -49,8 +49,7 @@ L2       | 18.07.2025   |  | [Lista 2](listas/lista02.pdf){:target="_blank"} <br
 08       | 28.07.2025   | Números primos. Curiosidades y problemas abiertos. <br/> [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Burton, sección 2.5  
 L3       | 01.08.2025   |  | [Lista 3](listas/lista03.pdf){:target="_blank"} <br/> **Entrega: viernes 15 de agosto** 
 09       | 01.08.2025   | Congruencias. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"}  | Burton, sección 4.1  
-10       | 04.08.2025   |   |
-
+10       | 04.08.2025   | Representación en Bases. Potenciación modular. [Aula 10](aulas/Aula10.pdf){:target="_blank"}  | 
 
 
 # Seminarios
