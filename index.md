@@ -50,6 +50,7 @@ L2       | 18.07.2025   |  | [Lista 2](listas/lista02.pdf){:target="_blank"} <br
 L3       | 01.08.2025   |  | [Lista 3](listas/lista03.pdf){:target="_blank"} <br/> **Entrega: viernes 15 de agosto** 
 09       | 01.08.2025   | Congruencias. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"}  | Burton, sección 4.1  
 10       | 04.08.2025   | Representación en Bases. Potenciación modular. [Aula 10](aulas/Aula10.pdf){:target="_blank"}  | 
+11       | 08.08.2025   | Criterios de divisibilidad. <br/> | 
 
 
 # Seminarios
