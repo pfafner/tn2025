@@ -46,7 +46,7 @@ L1       | 04.07.2025   |  | [Lista 1](listas/lista01.pdf){:target="_blank"} <br
 L2       | 18.07.2025   |  | [Lista 2](listas/lista02.pdf){:target="_blank"} <br/> **Entrega: lunes 28 de julio** 
 06       | 21.07.2025   | La ecuación ax + by = c. <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} | Burton, sección 2.4 
 07       | 25.07.2025   | El Teorema Fundamental de la Aritmética. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Burton, sección 2.5  
-08       | 28.07.2025   | Números primos. Curiosidades y problemas abiertos. <br/> [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Burton, sección 2.5  
+08       | 28.07.2025   | Números primos. Curiosidades y problemas abiertos.  [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Burton, sección 2.5  
 L3       | 01.08.2025   |  | [Lista 3](listas/lista03.pdf){:target="_blank"} <br/> **Entrega: viernes 15 de agosto** 
 09       | 01.08.2025   | Congruencias. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"}  | Burton, sección 4.1  
 10       | 04.08.2025   | Representación en Bases. Potenciación modular. [Aula 10](aulas/Aula10.pdf){:target="_blank"}  | Burton, sección 4.3 
