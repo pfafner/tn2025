@@ -51,6 +51,7 @@ L3       | 01.08.2025   |  | [Lista 3](listas/lista03.pdf){:target="_blank"} <br
 09       | 01.08.2025   | Congruencias. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"}  | Burton, sección 4.1  
 10       | 04.08.2025   | Representación en Bases. Potenciación modular. [Aula 10](aulas/Aula10.pdf){:target="_blank"}  | Burton, sección 4.3 
 11       | 08.08.2025   | Criterios de divisibilidad. <br/> [Aula 11](aulas/Aula11.pdf){:target="_blank"}  | Burton, sección 4.3 
+12       | 11.08.2025   | El anillo Z/nZ de enteros módulo n. <br/>  | Burton, sección 4.3 
 
 
 # Seminarios
