@@ -61,7 +61,32 @@ L4       | 18.08.2025   |  | [Lista 4](listas/lista04.pdf){:target="_blank"} <br
 
 En este curso se realizarán varios seminarios, los cuales serán indicados más adelante.
 
- 
+## Seminario 1  -- Cifrado, Tests de primalidad, Fracciones Continuas, Ecuaciones Diofantinas
+
+Fecha      | Expositor              | **Tópico**
+---------- | ---------------------- |  -------------------------------------
+Septiembre |                        | Aplicaciones I: Pseudoprimos. Números de Carmichael.
+Septiembre |                        | Aplicaciones II: Test de primalidad de Fermat. Otros test de primalidad. 
+Octubre    |                        | Aplicaciones III: Logaritmo discreto. Método de Diffie-Hellman.
+Octubre    |                        | Aplicaciones IV: Criptografía de llave pública. Cifrado RSA. 
+Octubre    |                        | Fracciones continuas I: Hasta el Teorema 15.2, Ejemplos.
+Octubre    |                        | Fracciones continuas II: Teoremas 15.5, 15.6 y Corolario.
+Octubre    |                        | Fracciones continuas III: Teoremas 15.7, Ejemplos 15.5 y 15.6.
+Octubre    |                        | Fracciones continuas IV: Buenas Aproximaciones. Lema, Teoremas 15.8 y 15.9, Ejemplos.
+Octubre    |                        | Ecuaciones Diofantinas I: Ternas Pitagóricas.
+Octubre    |                        | Ecuaciones Diofantinas II: Ecuación de Legendre.
+Octubre    |                        | Ecuaciones Diofantinas III: Ecuación de Pell. 
+Octubre    |                        | Ecuaciones Diofantinas IV: Sumas de Cuadrados.
+
+
+## Seminario 2  -- Tópicos en Teoría de Números (temas ya elegidos)
+
+Fecha      | Expositor              | **Tópico**
+---------- | ---------------------- |  -------------------------------------
+Noviembre  | Ricardo                | Propiedades de los números perfectos 
+Noviembre  | Ari                    | Avances en la solución de la Conjetura de Goldbach
+
+
 <div id='id-ref'/>
 
 ### Textos:
