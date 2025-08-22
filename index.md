@@ -49,11 +49,13 @@ L2       | 18.07.2025   |  | [Lista 2](listas/lista02.pdf){:target="_blank"} <br
 08       | 28.07.2025   | Números primos. Curiosidades y problemas abiertos.  [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Burton, sección 2.5  
 L3       | 01.08.2025   |  | [Lista 3](listas/lista03.pdf){:target="_blank"} <br/> **Entrega: viernes 15 de agosto** 
 09       | 01.08.2025   | Congruencias. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"}  | Burton, sección 4.1  
-10       | 04.08.2025   | Representación en Bases. Potenciación modular. [Aula 10](aulas/Aula10.pdf){:target="_blank"}  | Burton, sección 4.3 
-11       | 08.08.2025   | Criterios de divisibilidad. <br/> [Aula 11](aulas/Aula11.pdf){:target="_blank"}  | Burton, sección 4.3 
-12       | 11.08.2025   | El anillo Z/nZ de enteros módulo n. Grupo de unidades.  | Burton, sección 4.3 
-L4       | 18.08.2025   |  | [Lista 4](listas/lista04.pdf){:target="_blank"} <br/> **Entrega: lunes 01 de septiembre**  
-13       | 18.08.2025   | Solución de congruencias lineales. <br/>  | Burton, sección 4.3 
+10       | 04.08.2025   | Representación en Bases. Potenciación modular. [Aula 10](aulas/Aula10.pdf){:target="_blank"}  | Burton, sección 4.2 
+11       | 08.08.2025   | Criterios de divisibilidad. <br/> [Aula 11](aulas/Aula11.pdf){:target="_blank"}  | Burton, sección 4.2 
+12       | 11.08.2025   | El anillo Z/nZ de enteros módulo n. Grupo de unidades. [Aula 12](aulas/Aula12.pdf){:target="_blank"} | Burton, sección 4.3 
+13       | 15.08.2025   | La función de Euler. El teorema de Euler-Fermat. [Aula 13](aulas/Aula13.pdf){:target="_blank"} | Burton, sección 4.3 
+13       | 18.08.2025   | Raíces primitivas. Estructura de U(n). <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} | Burton, Cap. 8 
+L4       | 22.08.2025   |  | [Lista 4](listas/lista04.pdf){:target="_blank"} <br/> **Entrega: lunes 01 de septiembre**  
+14       | 22.08.2025   | Solución de congruencias lineales. <br/>  | Burton, sección 4.3 
 
 
 # Seminarios
