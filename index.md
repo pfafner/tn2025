@@ -83,8 +83,8 @@ Octubre    |                        | Ecuaciones Diofantinas IV: Sumas de Cuadra
 
 ## Seminario 2  -- Tópicos en Teoría de Números
 
-**No.**  | **Fecha**      | **Tópicos**                                  | **Recursos**
--------- | -------------- |  -------------------------------------
+**No.**  | **Fecha**      | **Tópicos**                     | **Recursos**
+-------- | -------------- |  ------------------------------ | --------------
 1        | 29.08.2025     | Lista de temas propuestos.      | [Temas Sugeridos](seminario2/Temas_seminario.pdf){:target="_blank"}
 2        | 26.09.2025     | Fecha límite para elegir tema.  |  
 3        | 14.11.2025     | Presentación de pósters.        |  
