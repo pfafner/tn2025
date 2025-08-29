@@ -56,6 +56,7 @@ L3       | 01.08.2025   |  | [Lista 3](listas/lista03.pdf){:target="_blank"} <br
 14       | 18.08.2025   | Raíces primitivas. Estructura de U(n). <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} | Burton, Cap. 8 
 L4       | 22.08.2025   |  | [Lista 4](listas/lista04.pdf){:target="_blank"} <br/> **Entrega: lunes 01 de septiembre**  
 15       | 22.08.2025   | Solución de congruencias lineales. <br/>  | Burton, sección 4.3 
+15       | 25.08.2025   | Congruencias lineales en varias variables. Sistemas lineales.  | Burton, sección 4.3 
 
 
 # Seminarios
