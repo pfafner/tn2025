@@ -75,7 +75,7 @@ Octubre    |                        | Fracciones continuas I: Hasta el Teorema 1
 Octubre    |                        | Fracciones continuas II: Teoremas 15.5, 15.6 y Corolario.
 Octubre    |                        | Fracciones continuas III: Teoremas 15.7, Ejemplos 15.5 y 15.6.
 Octubre    |                        | Fracciones continuas IV: Buenas Aproximaciones. Lema, Teoremas 15.8 y 15.9, Ejemplos.
-Octubre    |                        | Ecuaciones Diofantinas I: Ternas Pitagóricas.
+Octubre    | Ricardo Morales        | Ecuaciones Diofantinas I: Ternas Pitagóricas.
 Octubre    |                        | Ecuaciones Diofantinas II: Ecuación de Legendre.
 Octubre    |                        | Ecuaciones Diofantinas III: Ecuación de Pell. 
 Octubre    |                        | Ecuaciones Diofantinas IV: Sumas de Cuadrados.
@@ -92,8 +92,9 @@ Septiembre |                        | Aplicaciones I: Pseudoprimos. Números de 
 
 Fecha      | Expositor              | **Tópico**
 ---------- | ---------------------- |  -------------------------------------
-Noviembre  | Ricardo                | Propiedades de los números perfectos 
+Noviembre  | Ricardo Rodríguez      | Propiedades de los números perfectos 
 Noviembre  | Ari                    | Avances en la solución de la Conjetura de Goldbach
+Noviembre  | Ricardo Morales        | La conjetura de Cramer 
 
 
 <div id='id-ref'/>
