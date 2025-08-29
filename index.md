@@ -83,10 +83,13 @@ Octubre    |                        | Ecuaciones Diofantinas IV: Sumas de Cuadra
 
 ## Seminario 2  -- Tópicos en Teoría de Números
 
-Fecha      | Expositor              | **Tópico**
----------- | ---------------------- |  -------------------------------------
-Septiembre |                        | Aplicaciones I: Pseudoprimos. Números de Carmichael.
-Septiembre |                        | Aplicaciones I: Pseudoprimos. Números de Carmichael.
+**No.**  | **Fecha**      | **Tópicos**                                  | **Recursos**
+-------- | -------------- |  -------------------------------------
+1        | 29.08.2025     | Lista de temas propuestos.      | [Temas Sugeridos](seminario2/Temas_seminario.pdf){:target="_blank"}
+2        | 26.09.2025     | Fecha límite para elegir tema.  |  
+3        | 14.11.2025     | Presentación de pósters.        |  
+4        | 17-21.11.2025  | Presentaciones en clase.        |  
+
 
 ## Seminario 2  -- Tópicos en Teoría de Números (temas ya elegidos)
 
@@ -94,7 +97,7 @@ Fecha      | Expositor              | **Tópico**
 ---------- | ---------------------- |  -------------------------------------
 Noviembre  | Ricardo Rodríguez      | Propiedades de los números perfectos 
 Noviembre  | Ari                    | Avances en la solución de la Conjetura de Goldbach
-Noviembre  | Ricardo Morales        | La conjetura de Cramer 
+Noviembre  | Ricardo Morales        | La conjetura de Cramèr 
 
 
 <div id='id-ref'/>
