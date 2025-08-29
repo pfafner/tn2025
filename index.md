@@ -81,6 +81,13 @@ Octubre    |                        | Ecuaciones Diofantinas III: Ecuación de P
 Octubre    |                        | Ecuaciones Diofantinas IV: Sumas de Cuadrados.
 
 
+## Seminario 2  -- Tópicos en Teoría de Números
+
+Fecha      | Expositor              | **Tópico**
+---------- | ---------------------- |  -------------------------------------
+Septiembre |                        | Aplicaciones I: Pseudoprimos. Números de Carmichael.
+Septiembre |                        | Aplicaciones I: Pseudoprimos. Números de Carmichael.
+
 ## Seminario 2  -- Tópicos en Teoría de Números (temas ya elegidos)
 
 Fecha      | Expositor              | **Tópico**
