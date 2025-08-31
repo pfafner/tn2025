@@ -72,7 +72,7 @@ Septiembre |                        | Aplicaciones I: Pseudoprimos. Números de 
 Septiembre |                        | Aplicaciones II: Test de primalidad de Fermat. Otros test de primalidad. 
 Octubre    | Ricardo Rodríguez      | Aplicaciones III: Logaritmo discreto. Método de Diffie-Hellman.
 Octubre    | Mario Morales          | Aplicaciones IV: Criptografía de llave pública. Cifrado RSA. 
-Octubre    |                        | Fracciones continuas I: Hasta el Teorema 15.2, Ejemplos.
+Octubre    | Micaela Yatáz          | Fracciones continuas I: Hasta el Teorema 15.2, Ejemplos.
 Octubre    |                        | Fracciones continuas II: Teoremas 15.5, 15.6 y Corolario.
 Octubre    |                        | Fracciones continuas III: Teoremas 15.7, Ejemplos 15.5 y 15.6.
 Octubre    |                        | Fracciones continuas IV: Buenas Aproximaciones. Lema, Teoremas 15.8 y 15.9, Ejemplos.
