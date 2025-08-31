@@ -77,7 +77,7 @@ Octubre    |                        | Fracciones continuas II: Teoremas 15.5, 15
 Octubre    |                        | Fracciones continuas III: Teoremas 15.7, Ejemplos 15.5 y 15.6.
 Octubre    |                        | Fracciones continuas IV: Buenas Aproximaciones. Lema, Teoremas 15.8 y 15.9, Ejemplos.
 Octubre    | Ricardo Morales        | Ecuaciones Diofantinas I: Ternas Pitagóricas.
-Octubre    |                        | Ecuaciones Diofantinas II: Ecuación de Legendre.
+Octubre    | Javier Ovalle          | Ecuaciones Diofantinas II: Ecuación de Legendre.
 Octubre    | Ian Castellanos        | Ecuaciones Diofantinas III: Ecuación de Pell. 
 Octubre    |                        | Ecuaciones Diofantinas IV: Sumas de Cuadrados.
 
