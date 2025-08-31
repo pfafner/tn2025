@@ -70,7 +70,7 @@ Fecha      | Expositor              | **Tópico**
 ---------- | ---------------------- |  -------------------------------------
 Septiembre |                        | Aplicaciones I: Pseudoprimos. Números de Carmichael.
 Septiembre |                        | Aplicaciones II: Test de primalidad de Fermat. Otros test de primalidad. 
-Octubre    |                        | Aplicaciones III: Logaritmo discreto. Método de Diffie-Hellman.
+Octubre    | Ricardo Rodríguez      | Aplicaciones III: Logaritmo discreto. Método de Diffie-Hellman.
 Octubre    |                        | Aplicaciones IV: Criptografía de llave pública. Cifrado RSA. 
 Octubre    |                        | Fracciones continuas I: Hasta el Teorema 15.2, Ejemplos.
 Octubre    |                        | Fracciones continuas II: Teoremas 15.5, 15.6 y Corolario.
