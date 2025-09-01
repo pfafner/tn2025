@@ -79,7 +79,7 @@ Octubre    |                        | Fracciones continuas IV: Buenas Aproximaci
 Octubre    | Ricardo Morales        | Ecuaciones Diofantinas I: Ternas Pitagóricas.
 Octubre    | Javier Ovalle          | Ecuaciones Diofantinas II: Ecuación de Legendre.
 Octubre    | Ian Castellanos        | Ecuaciones Diofantinas III: Ecuación de Pell. 
-Octubre    |                        | Ecuaciones Diofantinas IV: Sumas de Cuadrados.
+Octubre    | Pablo Herrera          | Ecuaciones Diofantinas IV: Sumas de Cuadrados.
 
 
 ## Seminario 2  -- Tópicos en Teoría de Números
