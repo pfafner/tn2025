@@ -68,7 +68,7 @@ En este curso se realizarán varios seminarios, los cuales serán indicados más
 
 Fecha      | Expositor              | **Tópico**
 ---------- | ---------------------- |  -------------------------------------
-Septiembre |                        | Aplicaciones I: Pseudoprimos. Números de Carmichael.
+Septiembre | Rodrigo Ajmac          | Aplicaciones I: Pseudoprimos. Números de Carmichael.
 Septiembre | José Morales           | Aplicaciones II: Test de primalidad de Fermat. Otros test de primalidad. 
 Octubre    | Ricardo Rodríguez      | Aplicaciones III: Logaritmo discreto. Método de Diffie-Hellman.
 Octubre    | Mario Morales          | Aplicaciones IV: Criptografía de llave pública. Cifrado RSA. 
