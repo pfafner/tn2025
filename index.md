@@ -99,6 +99,7 @@ Fecha      | Expositor              | **Tópico**
 Noviembre  | Ricardo Rodríguez      | Propiedades de los números perfectos 
 Noviembre  | Ian Castellanos        | Avances en la solución de la Conjetura de Goldbach
 Noviembre  | Ricardo Morales        | La conjetura de Cramèr 
+Noviembre  | Pablo Herrera          | Aplicaciones en criptografía
 
 
 <div id='id-ref'/>
