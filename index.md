@@ -59,6 +59,7 @@ L4       | 22.08.2025   |  | [Lista 4](listas/lista04.pdf){:target="_blank"} <br
 16       | 25.08.2025   | Congruencias lineales en varias variables. Sistemas lineales.  | Burton, sección 4.3 
 17       | 29.08.2025   | Teorema Chino del Residuo. <br/> | Burton, sección 4.3 
 18       | 01.09.2025   | Congruencias cuadráticas. <br/> | 
+14       | 04.09.2025   | Símbolo de Legendre. Criterio de Euler. Lema de Gauss. | 
 
 
 # Seminarios
