@@ -71,18 +71,18 @@ En este curso se realizarán varios seminarios, los cuales serán indicados más
 
 Fecha      | Expositor              | **Tópico**
 ---------- | ---------------------- |  -------------------------------------
-Septiembre | Rodrigo Ajmac          | Aplicaciones I: Pseudoprimos. Números de Carmichael.
-Septiembre | José Morales           | Aplicaciones II: Test de primalidad de Fermat. Otros test de primalidad. 
-Octubre    | Ricardo Rodríguez      | Aplicaciones III: Logaritmo discreto. Método de Diffie-Hellman.
-Octubre    | Mario Morales          | Aplicaciones IV: Criptografía de llave pública. Cifrado RSA. 
-Octubre    | Micaela Yatáz          | Fracciones continuas I: Hasta el Teorema 15.2, Ejemplos.
-Octubre    | Juan Pablo Cordón      | Fracciones continuas II: Teoremas 15.5, 15.6 y Corolario.
-Octubre    |                        | Fracciones continuas III: Teoremas 15.7, Ejemplos 15.5 y 15.6.
-Octubre    | José Emilio Reyes      | Fracciones continuas IV: Buenas Aproximaciones. Lema, Teoremas 15.8 y 15.9, Ejemplos.
-Octubre    | Ricardo Morales        | Ecuaciones Diofantinas I: Ternas Pitagóricas.
-Octubre    | Javier Ovalle          | Ecuaciones Diofantinas II: Ecuación de Legendre.
-Octubre    | Ian Castellanos        | Ecuaciones Diofantinas III: Ecuación de Pell. 
-Octubre    | Pablo Herrera          | Ecuaciones Diofantinas IV: Sumas de Cuadrados.
+26.09.2025 | Rodrigo Ajmac          | Aplicaciones I: Pseudoprimos. Números de Carmichael.
+29.09.2025 | José Morales           | Aplicaciones II: Test de primalidad de Fermat. Otros test de primalidad. 
+03.10.2025 | Ricardo Rodríguez      | Aplicaciones III: Logaritmo discreto. Método de Diffie-Hellman.
+03.10.2025 | Mario Morales          | Aplicaciones IV: Criptografía de llave pública. Cifrado RSA. 
+07.10.2025 | Micaela Yatáz          | Fracciones continuas I: Hasta el Teorema 15.2, Ejemplos.
+07.10.2025 | Juan Pablo Cordón      | Fracciones continuas II: Teoremas 15.5, 15.6 y Corolario.
+10.10.2025 | Sara Guzmán            | Fracciones continuas III: Teoremas 15.7, Ejemplos 15.5 y 15.6.
+10.10.2025 | José Emilio Reyes      | Fracciones continuas IV: Buenas Aproximaciones. Lema, Teoremas 15.8 y 15.9, Ejemplos.
+13.10.2025 | Ricardo Morales        | Ecuaciones Diofantinas I: Ternas Pitagóricas.
+13.10.2025 | Javier Ovalle          | Ecuaciones Diofantinas II: Ecuación de Legendre.
+17.10.2025 | Ian Castellanos        | Ecuaciones Diofantinas III: Ecuación de Pell. 
+17.10.2025 | Pablo Herrera          | Ecuaciones Diofantinas IV: Sumas de Cuadrados.
 
 
 ## Seminario 2  -- Tópicos en Teoría de Números
