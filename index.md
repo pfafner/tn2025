@@ -57,9 +57,9 @@ L3       | 01.08.2025   |  | [Lista 3](listas/lista03.pdf){:target="_blank"} <br
 L4       | 22.08.2025   |  | [Lista 4](listas/lista04.pdf){:target="_blank"} <br/> **Entrega: lunes 01 de septiembre**  
 15       | 22.08.2025   | Solución de congruencias lineales. <br/>  | Burton, sección 4.3 
 16       | 25.08.2025   | Congruencias lineales en varias variables. Sistemas lineales.  | Burton, sección 4.3 
-17       | 29.08.2025   | Teorema Chino del Residuo. <br/> | Burton, sección 4.3 
+17       | 29.08.2025   | Teorema Chino del Residuo. <br/> | Burton, sección 4.3 [Aula 16](aulas/Aula16.pdf){:target="_blank"}
 18       | 01.09.2025   | Prueba algebraica del Teorema Chino. Congruencias cuadráticas.  | 
-14       | 04.09.2025   | Símbolo de Legendre. Criterio de Euler. Lema de Gauss. | 
+19       | 05.09.2025   | Símbolo de Legendre. Criterio de Euler. Lema de Gauss. | [Aula 18](aulas/Aula18.pdf){:target="_blank"}
 
 
 # Seminarios
@@ -100,7 +100,7 @@ Octubre    | Pablo Herrera          | Ecuaciones Diofantinas IV: Sumas de Cuadra
 Fecha      | Expositor              | **Tópico**
 ---------- | ---------------------- |  -------------------------------------
 Noviembre  | Ricardo Rodríguez      | Propiedades de los números perfectos 
-Noviembre  | Ian Castellanos        | Avances en la solución de la Conjetura de Goldbach
+Noviembre  | Ian Castellanos        | Grupo monstruo y la conjetura Monstruous Moonshine
 Noviembre  | Ricardo Morales        | La conjetura de Cramèr 
 Noviembre  | Pablo Herrera          | Aplicaciones en criptografía
 
