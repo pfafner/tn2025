@@ -75,8 +75,8 @@ Fecha      | Expositor              | **Tópico**
 29.09.2025 | José Morales           | Aplicaciones II: Test de primalidad de Fermat. Otros test de primalidad. 
 03.10.2025 | Ricardo Rodríguez      | Aplicaciones III: Logaritmo discreto. Método de Diffie-Hellman.
 03.10.2025 | Mario Morales          | Aplicaciones IV: Criptografía de llave pública. Cifrado RSA. 
-07.10.2025 | Micaela Yatáz          | Fracciones continuas I: Hasta el Teorema 15.2, Ejemplos.
-07.10.2025 | Juan Pablo Cordón      | Fracciones continuas II: Teoremas 15.5, 15.6 y Corolario.
+06.10.2025 | Micaela Yatáz          | Fracciones continuas I: Hasta el Teorema 15.2, Ejemplos.
+06.10.2025 | Juan Pablo Cordón      | Fracciones continuas II: Teoremas 15.5, 15.6 y Corolario.
 10.10.2025 | Sara Guzmán            | Fracciones continuas III: Teoremas 15.7, Ejemplos 15.5 y 15.6.
 10.10.2025 | José Emilio Reyes      | Fracciones continuas IV: Buenas Aproximaciones. Lema, Teoremas 15.8 y 15.9, Ejemplos.
 13.10.2025 | Ricardo Morales        | Ecuaciones Diofantinas I: Ternas Pitagóricas.
