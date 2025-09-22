@@ -58,9 +58,9 @@ L4       | 22.08.2025   |  | [Lista 4](listas/lista04.pdf){:target="_blank"} <br
 15       | 22.08.2025   | Solución de congruencias lineales. <br/>  | Burton, sección 4.3 
 16       | 25.08.2025   | Congruencias lineales en varias variables. Sistemas lineales.  | Burton, sección 4.3 
 17       | 29.08.2025   | Teorema Chino del Residuo. <br/> [Aula 16](aulas/Aula16.pdf){:target="_blank"} | Burton, sección 4.3 
-18       | 01.09.2025   | Prueba algebraica del Teorema Chino. Congruencias cuadráticas.  | Burton, sección 5.3 
-19       | 05.09.2025   | Símbolo de Legendre. Criterio de Euler. Lema de Gauss. [Aula 18](aulas/Aula18.pdf){:target="_blank"} | 
-20       | 08.09.2025   | Ley de reciprocidad cuadrática. Cálculo de símbolos de Legendre. [Aula 19](aulas/Aula19.pdf){:target="_blank"} | 
+18       | 01.09.2025   | Prueba algebraica del Teorema Chino. Congruencias cuadráticas.  |  
+19       | 05.09.2025   | Símbolo de Legendre. Criterio de Euler. Lema de Gauss. [Aula 18](aulas/Aula18.pdf){:target="_blank"} | Burton, secciones 9.1 y 9.2 
+20       | 08.09.2025   | Ley de reciprocidad cuadrática. Cálculo de símbolos de Legendre. [Aula 19](aulas/Aula19.pdf){:target="_blank"} | Burton, sección 9.3 
 21       | 12.09.2025   | Solución de congruencias cuadráticas. <br/> |   
 22       |              |   |  
 
