@@ -51,14 +51,14 @@ L3       | 01.08.2025   |  | [Lista 3](listas/lista03.pdf){:target="_blank"} <br
 09       | 01.08.2025   | Congruencias. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"}  | Burton, sección 4.1  
 10       | 04.08.2025   | Representación en Bases. Potenciación modular. [Aula 10](aulas/Aula10.pdf){:target="_blank"}  | Burton, sección 4.2 
 11       | 08.08.2025   | Criterios de divisibilidad. <br/> [Aula 11](aulas/Aula11.pdf){:target="_blank"}  | Burton, sección 4.2 
-12       | 11.08.2025   | El anillo Z/nZ de enteros módulo n. Grupo de unidades. [Aula 12](aulas/Aula12.pdf){:target="_blank"} | Burton, sección 4.3 
-13       | 15.08.2025   | La función de Euler. El teorema de Euler-Fermat. [Aula 13](aulas/Aula13.pdf){:target="_blank"} | Burton, sección 4.3 
+12       | 11.08.2025   | El anillo Z/nZ de enteros módulo n. Grupo de unidades. [Aula 12](aulas/Aula12.pdf){:target="_blank"} | Burton, secciones 4.3, 5.2 y 5.3 
+13       | 15.08.2025   | La función de Euler. El teorema de Euler-Fermat. [Aula 13](aulas/Aula13.pdf){:target="_blank"} | Burton, secciones 7.2 y 7.3 
 14       | 18.08.2025   | Raíces primitivas. Estructura de U(n). <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} | Burton, Cap. 8 
 L4       | 22.08.2025   |  | [Lista 4](listas/lista04.pdf){:target="_blank"} <br/> **Entrega: lunes 01 de septiembre**  
 15       | 22.08.2025   | Solución de congruencias lineales. <br/>  | Burton, sección 4.3 
 16       | 25.08.2025   | Congruencias lineales en varias variables. Sistemas lineales.  | Burton, sección 4.3 
 17       | 29.08.2025   | Teorema Chino del Residuo. <br/> [Aula 16](aulas/Aula16.pdf){:target="_blank"} | Burton, sección 4.3 
-18       | 01.09.2025   | Prueba algebraica del Teorema Chino. Congruencias cuadráticas.  | 
+18       | 01.09.2025   | Prueba algebraica del Teorema Chino. Congruencias cuadráticas.  | Burton, sección 5.3 
 19       | 05.09.2025   | Símbolo de Legendre. Criterio de Euler. Lema de Gauss. [Aula 18](aulas/Aula18.pdf){:target="_blank"} | 
 20       | 08.09.2025   | Ley de reciprocidad cuadrática. Cálculo de símbolos de Legendre. [Aula 19](aulas/Aula19.pdf){:target="_blank"} | 
 21       | 12.09.2025   | Solución de congruencias cuadráticas. <br/> |   
