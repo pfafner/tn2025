@@ -63,6 +63,7 @@ L4       | 22.08.2025   |  | [Lista 4](listas/lista04.pdf){:target="_blank"} <br
 20       | 08.09.2025   | Ley de reciprocidad cuadrática. Cálculo de símbolos de Legendre. [Aula 19](aulas/Aula19.pdf){:target="_blank"} | Burton, sección 9.3 
 21       | 12.09.2025   | Solución de congruencias cuadráticas. <br/> |   
 22       | 22.09.2025   | Congruencias de orden superior. Lema de Hensel. <br/>  | 
+L5       | 26.09.2025   | Actividad: uso crítico de IA en clase. <br/> | [Lista 5](listas/lista05.pdf){:target="_blank"} <br/> **Entrega: viernes 26 de septiembre**  
 
 
 # Seminarios
