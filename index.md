@@ -63,7 +63,7 @@ L4       | 22.08.2025   |  | [Lista 4](listas/lista04.pdf){:target="_blank"} <br
 20       | 08.09.2025   | Ley de reciprocidad cuadrática. Cálculo de símbolos de Legendre. [Aula 19](aulas/Aula19.pdf){:target="_blank"} | Burton, sección 9.3 
 21       | 12.09.2025   | Solución de congruencias cuadráticas. <br/> |   
 22       | 22.09.2025   | Congruencias de orden superior. Lema de Hensel. [Aula 21](aulas/Aula21.pdf){:target="_blank"} | Niven y Zuckerman. 
-L5       | 26.09.2025   | Actividad colaborativa: Bestiario de congruencias. <br/> Uso crítico de la IA en clase. | [Lista 5](listas/lista05.pdf){:target="_blank"} <br/> **Entrega: viernes 26 de septiembre**  
+L5       | 26.09.2025   | Actividad colaborativa: Bestiario. <br/> Uso crítico de la IA en clase. | [Lista 5](listas/lista05.pdf){:target="_blank"} <br/> **Entrega: viernes 26 de septiembre**  
 
 
 # Seminarios
@@ -106,7 +106,8 @@ Fecha      | Expositor              | **Tópico**
 Noviembre  | Ricardo Rodríguez      | Propiedades de los números perfectos 
 Noviembre  | Ian Castellanos        | Grupo monstruo y la conjetura Monstruous Moonshine
 Noviembre  | Ricardo Morales        | La conjetura de Cramèr 
-Noviembre  | Pablo Herrera          | Aplicaciones en criptografía
+Noviembre  | Pablo Herrera          | Aplicaciones en criptografía 
+Noviembre  | José Ángel Morales     | Conjetura de Goldbach 
 
 
 <div id='id-ref'/>
