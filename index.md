@@ -107,7 +107,11 @@ Noviembre  | Ricardo Rodríguez      | Propiedades de los números perfectos
 Noviembre  | Ian Castellanos        | Grupo monstruo y la conjetura Monstruous Moonshine
 Noviembre  | Ricardo Morales        | La conjetura de Cramèr 
 Noviembre  | Pablo Herrera          | Aplicaciones en criptografía 
-Noviembre  | José Ángel Morales     | Conjetura de Goldbach 
+Noviembre  | José Ángel Morales     | Conjetura de Goldbach  
+Noviembre  | Mario                  | Función W de Lambert 
+Noviembre  | Sara                   | Personaje o evento histórico: Pendiente.
+Noviembre  | Emilio                 | Números p-ádicos 
+Noviembre  | Juan Pablo             | Curvas elípticas 
 
 
 <div id='id-ref'/>
