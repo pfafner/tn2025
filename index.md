@@ -108,10 +108,11 @@ Noviembre  | Ian Castellanos        | Grupo monstruo y la conjetura Monstruous M
 Noviembre  | Ricardo Morales        | La conjetura de Cramèr 
 Noviembre  | Pablo Herrera          | Aplicaciones en criptografía 
 Noviembre  | José Ángel Morales     | Conjetura de Goldbach  
-Noviembre  | Mario                  | Función W de Lambert 
-Noviembre  | Sara                   | Personaje o evento histórico: Pendiente.
-Noviembre  | Emilio                 | Números p-ádicos 
-Noviembre  | Juan Pablo             | Curvas elípticas 
+Noviembre  | Mario Morales          | Función W de Lambert 
+Noviembre  | Sara Guzmán            | Personaje o evento histórico: Pendiente
+Noviembre  | Micaela Yatáz          | Números p-ádicos 
+Noviembre  | José Emilio Reyes      | La función Zeta de Riemann 
+Noviembre  | Juan Pablo Cortdón     | Curvas elípticas 
 
 
 <div id='id-ref'/>
