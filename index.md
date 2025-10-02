@@ -65,6 +65,7 @@ L4       | 22.08.2025   |  | [Lista 4](listas/lista04.pdf){:target="_blank"} <br
 22       | 22.09.2025   | Congruencias de orden superior. Lema de Hensel. [Aula 21](aulas/Aula21.pdf){:target="_blank"} | Niven y Zuckerman. 
 L5       | 26.09.2025   | Actividad colaborativa: Bestiario. <br/> Uso crítico de la IA en clase. | [Lista 5](listas/lista05.pdf){:target="_blank"} <br/> **Entrega: viernes 26 de septiembre**  
 23       | 29.09.2025   | Pseudoprimos. Números de Carmichael. |  
+24       | 29.09.2025   | Test de primalidad de Fermat. Otros test de primalidad. |  
 
 
 # Seminarios
