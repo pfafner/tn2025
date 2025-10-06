@@ -67,7 +67,8 @@ L5       | 26.09.2025   | Actividad colaborativa: Bestiario. <br/> Uso crítico 
 23       | 29.09.2025   | Pseudoprimos. Números de Carmichael. |  
 24       | 29.09.2025   | Test de primalidad de Fermat. Otros test de primalidad. |  
 25       | 03.10.2025   | Logaritmo discreto. Método de Diffie-Hellman. |  
-26       | 03.10.2025   | Cifrado RSA. |  
+26       | 03.10.2025   | Cifrado RSA. |   
+27       | 06.10.2025   | Fracciones continuas I:  |   
 
 
 # Seminarios
