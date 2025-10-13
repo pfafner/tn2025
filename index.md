@@ -69,6 +69,10 @@ L5       | 26.09.2025   | Actividad colaborativa: Bestiario. <br/> Uso crítico 
 25       | 03.10.2025   | Logaritmo discreto. Método de Diffie-Hellman. |  
 26       | 03.10.2025   | Cifrado RSA. |   
 27       | 06.10.2025   | Fracciones continuas I:  |   
+28       | 06.10.2025   | Fracciones continuas II:  |   
+29       | 10.10.2025   | Fracciones continuas III:  |   
+30       | 10.10.2025   | Fracciones continuas IV:  |   
+
 
 
 # Seminarios
