@@ -80,7 +80,7 @@ L5       | 26.09.2025   | Actividad colaborativa: Bestiario. <br/> Uso crítico 
 # Seminarios
 <div id='id-seminarios'/>
 
-En este curso se realizarán varios seminarios, los cuales serán indicados más adelante.
+En este curso se realizarán dos seminarios, los cuales serán indicados más adelante.
 
 ## Seminario 1  -- Cifrado, Tests de primalidad, Fracciones Continuas, Ecuaciones Diofantinas
 
@@ -102,12 +102,14 @@ Fecha      | Expositor              | **Tópico**
 
 ## Seminario 2  -- Tópicos en Teoría de Números
 
-**No.**  | **Fecha**      | **Tópicos**                     | **Recursos**
--------- | -------------- |  ------------------------------ | --------------
-1        | 29.08.2025     | Lista de temas propuestos.      | [Temas Sugeridos](seminario2/Temas_seminario.pdf){:target="_blank"}
-2        | 26.09.2025     | Fecha límite para elegir tema.  |  
-3        | 14.11.2025     | Presentación de pósters.        |  
-4        | 17-21.11.2025  | Presentaciones en clase.        |  
+**No.**  | **Fecha**      | **Tópicos**                           | **Recursos**
+-------- | -------------- |  ------------------------------------ | --------------
+1        | 29.08.2025     | Lista de temas propuestos.            | [Temas Sugeridos](seminario2/Temas_seminario.pdf){:target="_blank"}
+2        | 26.09.2025     | Fecha límite para elegir tema.        |
+3        | 07.11.2025     | Fecha límite para entrega de póster para revisión. | [Instrucciones Póster](seminario2/Posters_Expo_Mate.pdf){:target="_blank"} 
+4        | 10.11.2025     | Entre de borrador de presentación.    |    
+5        | 14.11.2025     | Presentación de pósters en Expo Mate. |  
+6        | 17-21.11.2025  | Presentaciones en clase.              |  
 
 
 ## Seminario 2  -- Tópicos en Teoría de Números (temas ya elegidos)
