@@ -75,8 +75,7 @@ L5       | 26.09.2025   | Actividad colaborativa: Bestiario. <br/> Uso crítico 
 31       | 13.10.2025   | Ternas pitagóricas. |   
 32       | 13.10.2025   | La ecuación de Legendre.  |   
 33       | 17.10.2025   | La ecuación de Pell.  |   
-
-
+34       | 14.10.2025   | Sumas de cuadrados. El Teorema de Legendre.  |   
 
 
 # Seminarios
