@@ -64,18 +64,20 @@ L4       | 22.08.2025   |  | [Lista 4](listas/lista04.pdf){:target="_blank"} <br
 21       | 12.09.2025   | Solución de congruencias cuadráticas. <br/> |   
 22       | 22.09.2025   | Congruencias de orden superior. Lema de Hensel. [Aula 21](aulas/Aula21.pdf){:target="_blank"} | Niven y Zuckerman. 
 L5       | 26.09.2025   | Actividad colaborativa: Bestiario. <br/> Uso crítico de la IA en clase. | [Lista 5](listas/lista05.pdf){:target="_blank"} <br/> **Entrega: viernes 26 de septiembre**  
-23       | 29.09.2025   | Pseudoprimos. Números de Carmichael. |  
-24       | 29.09.2025   | Test de primalidad de Fermat. Otros test de primalidad. |  
-25       | 03.10.2025   | Logaritmo discreto. Método de Diffie-Hellman. |  
-26       | 03.10.2025   | Cifrado RSA. |   
-27       | 06.10.2025   | Fracciones continuas I:  |   
-28       | 06.10.2025   | Fracciones continuas II:  |   
-29       | 10.10.2025   | Fracciones continuas III:  |   
-30       | 10.10.2025   | Fracciones continuas IV:  |   
-31       | 13.10.2025   | Ternas pitagóricas. |   
-32       | 13.10.2025   | La ecuación de Legendre.  |   
-33       | 17.10.2025   | La ecuación de Pell.  |   
-34       | 14.10.2025   | Sumas de cuadrados. El Teorema de Legendre.  |   
+23       | 29.09.2025   | Pseudoprimos. Números de Carmichael. <br/> | [Aula 22](seminario1/Rodrigo_Ajmac.pdf){:target="_blank"} <br/> Por Rodrigo Ajmac 
+24       | 29.09.2025   | Test de primalidad de Fermat. Otros test de primalidad.  | [Aula 23](seminario1/JoseA_Morales.pdf){:target="_blank"} <br/> Por José Ángel Morales 
+25       | 03.10.2025   | Logaritmo discreto. Método de Diffie-Hellman. <br/> | [Aula 24](seminario1/Ricardo_Rodriguez.pdf){:target="_blank"} <br/> Por Ricardo Rodríguez   
+26       | 03.10.2025   | Cifrado RSA. <br/> | [Aula 25](){:target="_blank"} <br/> Por Mario Esteban Morales  
+27       | 06.10.2025   | Fracciones continuas I: fraciones finitas <br/> | [Aula 26](seminario1/Micaela_Yataz.pdf){:target="_blank"} <br/> Por Micaela Yatáz    
+28       | 06.10.2025   | Fracciones continuas II: fracciones infinitas y convergentes | [Aula 27](seminario1/JuanP_Cordon.pdf){:target="_blank"} <br/> Por Juan Pablo Cordón   
+29       | 10.10.2025   | Fracciones continuas III: cálculo de fracciones infinitas  | [Aula 28](seminario1/Sara_Guzman.pdf){:target="_blank"} <br/> Por Sara Guzmán  
+30       | 10.10.2025   | Fracciones continuas IV: buenas aproximaciones  | [Aula 29](seminario1/Emilio_Reyes.pdf){:target="_blank"} <br/> Por José Emilio Reyes 
+31       | 13.10.2025   | Ternas pitagóricas. <br/> | [Aula 30](seminario1/Ricardo_Morales.pdf){:target="_blank"} <br/> Por Ricardo Morales  
+32       | 13.10.2025   | La ecuación de Legendre. <br/> | [Aula 31](seminario1/Javier_Ovalle.pdf){:target="_blank"} <br/> Por Javier Ovalle 
+33       | 17.10.2025   | La ecuación de Pell. <br/> | [Aula 32](){:target="_blank"} <br/> Por Ian Castellanos 
+34       | 24.10.2025   | Sumas de cuadrados. El Teorema de Legendre. <br/> | [Aula 34](seminario1/Pablo_Herrera.pdf){:target="_blank"} <br/> Por Pablo Herrera 
+L6       | 27.10.2025   | Lista 6. | [Lista 6](listas/lista06.pdf){:target="_blank"} <br/> **Entrega: viernes 07 de noviembre**  
+L7       | 27.10.2025   | Lista 7. | [Lista 7](listas/lista07.pdf){:target="_blank"} <br/> **Entrega: viernes 14 de noviembre**  
 
 
 # Seminarios
