@@ -129,7 +129,9 @@ Noviembre  | Mario Morales          | Función W de Lambert
 Noviembre  | Sara Guzmán            | Personaje o evento histórico: Pendiente
 Noviembre  | Micaela Yatáz          | Números p-ádicos 
 Noviembre  | José Emilio Reyes      | La función Zeta de Riemann 
-Noviembre  | Juan Pablo Cortdón     | Curvas elípticas 
+Noviembre  | Juan Pablo Cordón      | Curvas elípticas 
+Noviembre  | Javier Ovalle          | Algoritmo de Shor
+Noviembre  | Rodrigo Ajmac          | Aritmética de los códices 
 
 
 <div id='id-ref'/>
