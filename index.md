@@ -78,7 +78,9 @@ L5       | 26.09.2025   | Actividad colaborativa: Bestiario. <br/> Uso crítico 
 34       | 24.10.2025   | Sumas de cuadrados. El Teorema de Legendre. <br/> | [Aula 33](seminario1/Pablo_Herrera.pdf){:target="_blank"} <br/> Por Pablo Herrera 
 L6       | 27.10.2025   | Lista 6. | [Lista 6](listas/lista06.pdf){:target="_blank"} <br/> **Entrega: viernes 07 de noviembre**  
 L7       | 27.10.2025   | Lista 7. | [Lista 7](listas/lista07.pdf){:target="_blank"} <br/> **Entrega: viernes 14 de noviembre**  
-35       | 27.10.2025   | La ecuación de Fermat. Prueba del caso n=4 y n=3. |  
+35       | 27.10.2025   | Descenso de Fermat. <br/> [Aula 34](aulas/Aula34.pdf){:target="_blank"} |  
+36       | 27.10.2025   | La ecuación de Fermat. Prueba del caso n=4 y n=3. [Aula 35a](aulas/Aula35a.pdf){:target="_blank"} [Aula 35b](aulas/Aula35b.pdf){:target="_blank"} |  
+37       | 31.10.2025   | Enteros algebraicos. <br/> |  
 
 
 # Seminarios
