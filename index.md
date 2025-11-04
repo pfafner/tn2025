@@ -122,18 +122,18 @@ Fecha      | Expositor              | **Tópico**
 
 Fecha      | Expositor              | **Tópico**
 ---------- | ---------------------- |  -------------------------------------
-Noviembre  | Ricardo Rodríguez      | Propiedades de los números perfectos 
-Noviembre  | Ian Castellanos        | Grupo monstruo y la conjetura Monstruous Moonshine
-Noviembre  | Ricardo Morales        | La conjetura de Cramèr 
-Noviembre  | Pablo Herrera          | Aplicaciones en criptografía 
-Noviembre  | José Ángel Morales     | Conjetura de Goldbach  
-Noviembre  | Mario Morales          | Función W de Lambert 
-Noviembre  | Sara Guzmán            | Personaje o evento histórico: Pendiente
-Noviembre  | Micaela Yatáz          | Números p-ádicos 
-Noviembre  | José Emilio Reyes      | La función Zeta de Riemann 
-Noviembre  | Juan Pablo Cordón      | Curvas elípticas 
-Noviembre  | Javier Ovalle          | Algoritmo de Shor
-Noviembre  | Rodrigo Ajmac          | Aritmética de los códices 
+10.11.2025 | Ricardo Rodríguez      | Propiedades de los números perfectos 
+10.11.2025 | Ricardo Morales        | La conjetura de Cramèr 
+10.11.2025 | José Ángel Morales     | Conjetura de Goldbach  
+14.11.2025 | Pablo Herrera          | Aplicaciones en criptografía 
+14.11.2025 | Rodrigo Ajmac          | Aritmética de los códices 
+14.11.2025 | Sara Guzmán            | Personaje o evento histórico: Pendiente
+17.11.2025 | Micaela Yatáz          | Números p-ádicos 
+17.11.2025 | Mario Morales          | Función W de Lambert 
+17.11.2025 | José Emilio Reyes      | La función Zeta de Riemann 
+21.11.2025 | Javier Ovalle          | Algoritmo de Shor
+21.11.2025 | Juan Pablo Cordón      | Curvas elípticas 
+21.11.2025 | Ian Castellanos        | La conjetura Monstruous Moonshine
 
 
 <div id='id-ref'/>
