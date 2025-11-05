@@ -64,10 +64,10 @@ L4       | 22.08.2025   |  | [Lista 4](listas/lista04.pdf){:target="_blank"} <br
 21       | 12.09.2025   | Solución de congruencias cuadráticas. <br/> |   
 22       | 22.09.2025   | Congruencias de orden superior. Lema de Hensel. [Aula 21](aulas/Aula21.pdf){:target="_blank"} | Niven y Zuckerman. 
 L5       | 26.09.2025   | Actividad colaborativa: Bestiario. <br/> Uso crítico de la IA en clase. | [Lista 5](listas/lista05.pdf){:target="_blank"} <br/> **Entrega: viernes 26 de septiembre**  
-23       | 29.09.2025   | Pseudoprimos. Números de Carmichael. <br/> | [Aula 22](seminario1/Rodrigo_Ajmac.pdf){:target="_blank"} <br/> Por Rodrigo Ajmac 
-24       | 29.09.2025   | Test de primalidad de Fermat. Otros test de primalidad.  | [Aula 23](seminario1/JoseA_Morales.pdf){:target="_blank"} <br/> Por José Ángel Morales 
-25       | 03.10.2025   | Logaritmo discreto. Método de Diffie-Hellman. <br/> | [Aula 24](seminario1/Ricardo_Rodriguez.pdf){:target="_blank"} <br/> Por Ricardo Rodríguez   
-26       | 03.10.2025   | Cifrado RSA. <br/> | [Aula 25](seminario1/Mario_Morales.pdf){:target="_blank"} <br/> Por Mario Esteban Morales  
+23       | 29.09.2025   | Pseudoprimos. Números de Carmichael. [Aula 22](seminario1/Rodrigo_Ajmac.pdf){:target="_blank"} <br/> Por Rodrigo Ajmac | Burton, sección 5.1 
+24       | 29.09.2025   | Test de primalidad de Fermat. Otros test de primalidad. [Aula 23](seminario1/JoseA_Morales.pdf){:target="_blank"} <br/> Por José Ángel Morales | Burton, sección 5.2 <br/> Stein, sección 2.4 
+25       | 03.10.2025   | Logaritmo discreto. Método de Diffie-Hellman. [Aula 24](seminario1/Ricardo_Rodriguez.pdf){:target="_blank"} <br/> Por Ricardo Rodríguez | Burton, capítulo 8 <br/> Stein, secciones 3.1 y 3.2 
+26       | 03.10.2025   | Cifrado RSA. <br/> [Aula 25](seminario1/Mario_Morales.pdf){:target="_blank"} <br/> Por Mario Esteban Morales | Stillwell, capítulo 4 <br/> Stein, secciones 3.3 y 3.4 
 27       | 06.10.2025   | Fracciones continuas I: fraciones finitas <br/> | [Aula 26](seminario1/Micaela_Yataz.pdf){:target="_blank"} <br/> Por Micaela Yatáz    
 28       | 06.10.2025   | Fracciones continuas II: fracciones infinitas y convergentes | [Aula 27](seminario1/JuanP_Cordon.pdf){:target="_blank"} <br/> Por Juan Pablo Cordón   
 29       | 10.10.2025   | Fracciones continuas III: cálculo de fracciones infinitas  | [Aula 28](seminario1/Sara_Guzman.pdf){:target="_blank"} <br/> Por Sara Guzmán  
