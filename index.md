@@ -72,10 +72,10 @@ L5       | 26.09.2025   | Actividad colaborativa: Bestiario. <br/> Uso crítico 
 28       | 06.10.2025   | Fracciones continuas infinitas y convergentes. [Aula 27](seminario1/JuanP_Cordon.pdf){:target="_blank"} <br/> Por Juan Pablo Cordón | Burton, sección 15.3   
 29       | 10.10.2025   | Cálculo de fracciones infinitas. [Aula 28](seminario1/Sara_Guzman.pdf){:target="_blank"} <br/> Por Sara Guzmán | Burton, sección 15.2
 30       | 10.10.2025   | Fracciones continuas y buenas aproximaciones. [Aula 29](seminario1/Emilio_Reyes.pdf){:target="_blank"} <br/> Por José Emilio Reyes | Burton, sección 15.3 
-31       | 13.10.2025   | Ternas pitagóricas. <br/> | [Aula 30](seminario1/Ricardo_Morales.pdf){:target="_blank"} <br/> Por Ricardo Morales  
-32       | 13.10.2025   | La ecuación de Legendre. <br/> | [Aula 31](seminario1/Javier_Ovalle.pdf){:target="_blank"} <br/> Por Javier Ovalle 
-33       | 17.10.2025   | La ecuación de Pell. <br/> | [Aula 32](seminario1/Ian_Castellanos.pdf){:target="_blank"} <br/> Por Ian Castellanos 
-34       | 24.10.2025   | Sumas de cuadrados. El Teorema de Legendre. <br/> | [Aula 33](seminario1/Pablo_Herrera.pdf){:target="_blank"} <br/> Por Pablo Herrera 
+31       | 13.10.2025   | Ternas pitagóricas. [Aula 30](seminario1/Ricardo_Morales.pdf){:target="_blank"} <br/> Por Ricardo Morales | Niven-Zuckerman, sección 7.8 
+32       | 13.10.2025   | La ecuación de Legendre. [Aula 31](seminario1/Javier_Ovalle.pdf){:target="_blank"} <br/> Por Javier Ovalle |  
+33       | 17.10.2025   | La ecuación de Pell. [Aula 32](seminario1/Ian_Castellanos.pdf){:target="_blank"} <br/> Por Ian Castellanos | Stillwell, capítulo 5 
+34       | 24.10.2025   | Sumas de cuadrados. Teorema de Legendre. [Aula 33](seminario1/Pablo_Herrera.pdf){:target="_blank"} <br/> Por Pablo Herrera | Stillwell, capítulo 8 
 L6       | 27.10.2025   | Lista 6. | [Lista 6](listas/lista06.pdf){:target="_blank"} <br/> **Entrega: viernes 07 de noviembre**  
 L7       | 27.10.2025   | Lista 7. | [Lista 7](listas/lista07.pdf){:target="_blank"} <br/> **Entrega: viernes 14 de noviembre**  
 35       | 27.10.2025   | Descenso de Fermat. <br/> [Aula 34](aulas/Aula34.pdf){:target="_blank"} |  
