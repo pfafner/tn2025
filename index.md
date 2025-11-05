@@ -68,10 +68,10 @@ L5       | 26.09.2025   | Actividad colaborativa: Bestiario. <br/> Uso crítico 
 24       | 29.09.2025   | Test de primalidad de Fermat. Otros test de primalidad. [Aula 23](seminario1/JoseA_Morales.pdf){:target="_blank"} <br/> Por José Ángel Morales | Burton, sección 5.2 <br/> Stein, sección 2.4 
 25       | 03.10.2025   | Logaritmo discreto. Método de Diffie-Hellman. [Aula 24](seminario1/Ricardo_Rodriguez.pdf){:target="_blank"} <br/> Por Ricardo Rodríguez | Burton, capítulo 8 <br/> Stein, secciones 3.1 y 3.2 
 26       | 03.10.2025   | Cifrado RSA. <br/> [Aula 25](seminario1/Mario_Morales.pdf){:target="_blank"} <br/> Por Mario Esteban Morales | Stillwell, capítulo 4 <br/> Stein, secciones 3.3 y 3.4 
-27       | 06.10.2025   | Fracciones continuas I: fraciones finitas <br/> | [Aula 26](seminario1/Micaela_Yataz.pdf){:target="_blank"} <br/> Por Micaela Yatáz    
-28       | 06.10.2025   | Fracciones continuas II: fracciones infinitas y convergentes | [Aula 27](seminario1/JuanP_Cordon.pdf){:target="_blank"} <br/> Por Juan Pablo Cordón   
-29       | 10.10.2025   | Fracciones continuas III: cálculo de fracciones infinitas  | [Aula 28](seminario1/Sara_Guzman.pdf){:target="_blank"} <br/> Por Sara Guzmán  
-30       | 10.10.2025   | Fracciones continuas IV: buenas aproximaciones  | [Aula 29](seminario1/Emilio_Reyes.pdf){:target="_blank"} <br/> Por José Emilio Reyes 
+27       | 06.10.2025   | Fracciones continuas finitas. [Aula 26](seminario1/Micaela_Yataz.pdf){:target="_blank"} <br/> Por Micaela Yatáz | Burton, sección 15.2    
+28       | 06.10.2025   | Fracciones continuas infinitas y convergentes. [Aula 27](seminario1/JuanP_Cordon.pdf){:target="_blank"} <br/> Por Juan Pablo Cordón | Burton, sección 15.3   
+29       | 10.10.2025   | Cálculo de fracciones infinitas. [Aula 28](seminario1/Sara_Guzman.pdf){:target="_blank"} <br/> Por Sara Guzmán | Burton, sección 15.2
+30       | 10.10.2025   | Fracciones continuas y buenas aproximaciones. [Aula 29](seminario1/Emilio_Reyes.pdf){:target="_blank"} <br/> Por José Emilio Reyes | Burton, sección 15.3 
 31       | 13.10.2025   | Ternas pitagóricas. <br/> | [Aula 30](seminario1/Ricardo_Morales.pdf){:target="_blank"} <br/> Por Ricardo Morales  
 32       | 13.10.2025   | La ecuación de Legendre. <br/> | [Aula 31](seminario1/Javier_Ovalle.pdf){:target="_blank"} <br/> Por Javier Ovalle 
 33       | 17.10.2025   | La ecuación de Pell. <br/> | [Aula 32](seminario1/Ian_Castellanos.pdf){:target="_blank"} <br/> Por Ian Castellanos 
