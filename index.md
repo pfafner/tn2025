@@ -81,6 +81,8 @@ L7       | 27.10.2025   | Lista 7. | [Lista 7](listas/lista07.pdf){:target="_bla
 35       | 27.10.2025   | Descenso de Fermat. <br/> [Aula 34](aulas/Aula34.pdf){:target="_blank"} |  
 36       | 27.10.2025   | La ecuación de Fermat. Prueba del caso n=4 y n=3. [Aula 35a](aulas/Aula35a.pdf){:target="_blank"} [Aula 35b](aulas/Aula35b.pdf){:target="_blank"} |  
 37       | 31.10.2025   | Enteros algebraicos. <br/> |  
+38       | 03.11.2025   | Funciones aritméticas. <br/> | 
+39       | 07.11.2025   | La fórmula de inversión de Möbius. <br/> | 
 
 
 # Seminarios
