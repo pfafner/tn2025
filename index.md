@@ -83,9 +83,10 @@ L7       | 27.10.2025   | Lista 7. | [Lista 7](listas/lista07.pdf){:target="_bla
 37       | 31.10.2025   | Enteros algebraicos. <br/> |  
 38       | 03.11.2025   | Funciones aritméticas. <br/> | 
 39       | 07.11.2025   | La fórmula de inversión de Möbius. <br/> | 
+40       | 10.11.2025   | Promedios de funciones aritméticas. <br/> | 
+41       | 14.11.2025   | Presentación de pósters. <br/>. | 
 
 
-# Seminarios
 <div id='id-seminarios'/>
 
 En este curso se realizarán dos seminarios, los cuales serán indicados más adelante.
