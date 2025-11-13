@@ -130,7 +130,7 @@ Fecha      | Expositor              | **Tópico**
 10.11.2025 | José Ángel Morales     | Conjetura de Goldbach  
 14.11.2025 | Pablo Herrera          | Aplicaciones en criptografía 
 14.11.2025 | Rodrigo Ajmac          | Aritmética de los códices 
-14.11.2025 | Sara Guzmán            | Personaje o evento histórico: Pendiente
+14.11.2025 | Sara Guzmán            | Contribuciones de Sophie Germain
 17.11.2025 | Micaela Yatáz          | Números p-ádicos 
 17.11.2025 | Mario Morales          | Función W de Lambert 
 17.11.2025 | José Emilio Reyes      | La función Zeta de Riemann 
