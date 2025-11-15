@@ -84,7 +84,9 @@ L7       | 27.10.2025   | Lista 7. | [Lista 7](listas/lista07.pdf){:target="_bla
 38       | 03.11.2025   | Funciones aritméticas. <br/> | 
 39       | 07.11.2025   | La fórmula de inversión de Möbius. <br/> | 
 40       | 10.11.2025   | Promedios de funciones aritméticas. <br/> | 
-41       | 14.11.2025   | Presentación de pósters. <br/> |  
+41       | 14.11.2025   | Estimativas sobre primos. El teorema de los números primos. | 
+42       | 14.11.2025   | Presentación de pósters. <br/> |  
+43       | 17.11.2025   | Presentación de seminarios. <br/> | 
 
 
 <div id='id-seminarios'/>
