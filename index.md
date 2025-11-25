@@ -67,7 +67,7 @@ L5       | 26.09.2025   | Actividad colaborativa: Bestiario. <br/> Uso crítico 
 23       | 29.09.2025   | Pseudoprimos. Números de Carmichael. [Aula 22](seminario1/Rodrigo_Ajmac.pdf){:target="_blank"} <br/> Por Rodrigo Ajmac | Burton, sección 5.1 
 24       | 29.09.2025   | Test de primalidad de Fermat. Otros test de primalidad. [Aula 23](seminario1/JoseA_Morales.pdf){:target="_blank"} <br/> Por José Ángel Morales | Burton, sección 5.2 <br/> Stein, sección 2.4 
 25       | 03.10.2025   | Logaritmo discreto. Método de Diffie-Hellman. [Aula 24](seminario1/Ricardo_Rodriguez.pdf){:target="_blank"} <br/> Por Ricardo Rodríguez | Burton, capítulo 8 <br/> Stein, secciones 3.1 y 3.2 
-26       | 03.10.2025   | Cifrado RSA. <br/> [Aula 25](seminario1/Mario_Morales.pdf){:target="_blank"} <br/> Por Mario Esteban Morales | Stillwell, capítulo 4 <br/> Stein, secciones 3.3 y 3.4 
+26       | 03.10.2025   | Cifrado RSA. <br/> [Aula 25](seminario1/Esteban_Morales.pdf){:target="_blank"} <br/> Por Mario Esteban Morales | Stillwell, capítulo 4 <br/> Stein, secciones 3.3 y 3.4 
 27       | 06.10.2025   | Fracciones continuas finitas. [Aula 26](seminario1/Micaela_Yataz.pdf){:target="_blank"} <br/> Por Micaela Yatáz | Burton, sección 15.2    
 28       | 06.10.2025   | Fracciones continuas infinitas y convergentes. [Aula 27](seminario1/JuanP_Cordon.pdf){:target="_blank"} <br/> Por Juan Pablo Cordón | Burton, sección 15.3   
 29       | 10.10.2025   | Cálculo de fracciones infinitas. [Aula 28](seminario1/Sara_Guzman.pdf){:target="_blank"} <br/> Por Sara Guzmán | Burton, sección 15.2
