@@ -67,7 +67,7 @@ L5       | 26.09.2025   | Actividad colaborativa: Bestiario. <br/> Uso crítico 
 23       | 29.09.2025   | Pseudoprimos. Números de Carmichael. [Aula 22](seminario1/Rodrigo_Ajmac.pdf){:target="_blank"} <br/> Por Rodrigo Ajmac | Burton, sección 5.1 
 24       | 29.09.2025   | Test de primalidad de Fermat. Otros test de primalidad. [Aula 23](seminario1/JoseA_Morales.pdf){:target="_blank"} <br/> Por José Ángel Morales | Burton, sección 5.2 <br/> Stein, sección 2.4 
 25       | 03.10.2025   | Logaritmo discreto. Método de Diffie-Hellman. [Aula 24](seminario1/Ricardo_Rodriguez.pdf){:target="_blank"} <br/> Por Ricardo Rodríguez | Burton, capítulo 8 <br/> Stein, secciones 3.1 y 3.2 
-26       | 03.10.2025   | Cifrado RSA. <br/> [Aula 25](seminario1/Esteban_Morales.pdf){:target="_blank"} <br/> Por Mario Esteban Morales | Stillwell, capítulo 4 <br/> Stein, secciones 3.3 y 3.4 
+26       | 03.10.2025   | Cifrado RSA. <br/> [Aula 25](seminario1/Esteban_Morales.pdf){:target="_blank"} <br/> Por Esteban Morales | Stillwell, capítulo 4 <br/> Stein, secciones 3.3 y 3.4 
 27       | 06.10.2025   | Fracciones continuas finitas. [Aula 26](seminario1/Micaela_Yataz.pdf){:target="_blank"} <br/> Por Micaela Yatáz | Burton, sección 15.2    
 28       | 06.10.2025   | Fracciones continuas infinitas y convergentes. [Aula 27](seminario1/JuanP_Cordon.pdf){:target="_blank"} <br/> Por Juan Pablo Cordón | Burton, sección 15.3   
 29       | 10.10.2025   | Cálculo de fracciones infinitas. [Aula 28](seminario1/Sara_Guzman.pdf){:target="_blank"} <br/> Por Sara Guzmán | Burton, sección 15.2
@@ -100,7 +100,7 @@ Fecha      | Expositor              | **Tópico**
 26.09.2025 | Rodrigo Ajmac          | Aplicaciones I: Pseudoprimos. Números de Carmichael.
 29.09.2025 | José Morales           | Aplicaciones II: Test de primalidad de Fermat. Otros test de primalidad. 
 03.10.2025 | Ricardo Rodríguez      | Aplicaciones III: Logaritmo discreto. Método de Diffie-Hellman.
-03.10.2025 | Mario Morales          | Aplicaciones IV: Criptografía de llave pública. Cifrado RSA. 
+03.10.2025 | Esteban Morales        | Aplicaciones IV: Criptografía de llave pública. Cifrado RSA. 
 06.10.2025 | Micaela Yatáz          | Fracciones continuas I: Hasta el Teorema 15.2, Ejemplos.
 06.10.2025 | Juan Pablo Cordón      | Fracciones continuas II: Teoremas 15.5, 15.6 y Corolario.
 10.10.2025 | Sara Guzmán            | Fracciones continuas III: Teoremas 15.7, Ejemplos 15.5 y 15.6.
@@ -134,7 +134,7 @@ Fecha      | Expositor              | **Tópico**
 14.11.2025 | Rodrigo Ajmac          | Aritmética de los códices 
 14.11.2025 | Sara Guzmán            | Contribuciones de Sophie Germain
 17.11.2025 | Micaela Yatáz          | Números p-ádicos 
-17.11.2025 | Mario Morales          | Función W de Lambert 
+17.11.2025 | Esteban Morales        | Función W de Lambert 
 17.11.2025 | José Emilio Reyes      | La función Zeta de Riemann 
 21.11.2025 | Javier Ovalle          | Algoritmo de Shor
 21.11.2025 | Juan Pablo Cordón      | Curvas elípticas 
