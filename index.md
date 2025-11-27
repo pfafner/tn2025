@@ -127,8 +127,8 @@ Fecha      | Expositor              | **Tópico**
 
 Fecha      | Expositor              | **Tópico**
 ---------- | ---------------------- |  -------------------------------------
-10.11.2025 | Ricardo Rodríguez      | Propiedades de los números perfectos 
-10.11.2025 | Ricardo Morales        | La conjetura de Cramèr 
+10.11.2025 | Ricardo Rodríguez      | Propiedades de los números perfectos <br/> [Presentación](seminario2/Ricardo_Rodriguez.pdf){:target="_blank"} 
+10.11.2025 | Ricardo Morales        | La conjetura de Cramèr <br/> [Presentación](seminario2/Ricardo_Morales.pdf){:target="_blank"} 
 10.11.2025 | José Ángel Morales     | Conjetura de Goldbach  
 14.11.2025 | Pablo Herrera          | Aplicaciones en criptografía 
 14.11.2025 | Rodrigo Ajmac          | Aritmética de los códices 
