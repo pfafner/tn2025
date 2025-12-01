@@ -128,13 +128,13 @@ Fecha      | Expositor              | **Tópico**
 Fecha      | Expositor              | **Tópico**
 ---------- | ---------------------- |  -------------------------------------
 10.11.2025 | Ricardo Rodríguez      | Propiedades de los números perfectos <br/> [Presentación](seminario2/Ricardo_Rodriguez.pdf){:target="_blank"} 
-10.11.2025 | Ricardo Morales        | Brechas entre primos y la conjetura de Cramér [Presentación](seminario2/Ricardo_Morales.pdf){:target="_blank"} 
+10.11.2025 | Ricardo Morales        | Brechas entre primos y la conjetura de Cramér <br/> [Presentación](seminario2/Ricardo_Morales.pdf){:target="_blank"} 
 10.11.2025 | José Ángel Morales     | La conjetura de Goldbach <br/> [Presentaciónn](seminario2/JoseA_Morales.pdf){:target="_blank"} 
 14.11.2025 | Pablo Herrera          | Aplicaciones de la teoría de números en criptografía [Presentación](seminario2/Pablo_Herrera.pdf){:target="_blank"} 
 14.11.2025 | Rodrigo Ajmac          | Aritmética maya <br/> [Presentación](seminario2/Rodrigo_Ajmac.pdf){:target="_blank"} 
 14.11.2025 | Sara Guzmán            | Sophie Germain: Rompiendo Barreras y la lógica del Último Teorema de Fermat [Presentación](seminario2/Sara_Guzman.pdf){:target="_blank"} 
-17.11.2025 | Micaela Yatáz          | Números p-ádicos 
-17.11.2025 | Esteban Morales        | Función W de Lambert 
+17.11.2025 | Micaela Yatáz          | Números p-ádicos <br/> [Presentación](seminario2/Micaela_Yataz.pdf){:target="_blank"} 
+17.11.2025 | Esteban Morales        | La función W de Lambert en teoría de números <br/> [Presentación](seminario2/Esteban_Morales.pdf){:target="_blank"} 
 17.11.2025 | José Emilio Reyes      | La función Zeta de Riemann 
 21.11.2025 | Javier Ovalle          | Algoritmo de Shor
 21.11.2025 | Juan Pablo Cordón      | Curvas elípticas 
