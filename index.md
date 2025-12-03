@@ -135,8 +135,8 @@ Fecha      | Expositor              | **Tópico**
 14.11.2025 | Sara Guzmán            | Sophie Germain: Rompiendo Barreras y la lógica del Último Teorema de Fermat [Presentación](seminario2/Sara_Guzman.pdf){:target="_blank"} 
 17.11.2025 | Micaela Yatáz          | Números p-ádicos <br/> [Presentación](seminario2/Micaela_Yataz.pdf){:target="_blank"} 
 17.11.2025 | Esteban Morales        | La función W de Lambert en teoría de números <br/> [Presentación](seminario2/Esteban_Morales.pdf){:target="_blank"} 
-17.11.2025 | José Emilio Reyes      | La función Zeta de Riemann 
-21.11.2025 | Javier Ovalle          | Algoritmo de Shor
+17.11.2025 | José Emilio Reyes      | La función Zeta de Riemann <br/> [Presentación](seminario2/Emilio_Reyes.pdf){:target="_blank"} 
+21.11.2025 | Javier Ovalle          | Algoritmo de Shor <br/> [Presentación](seminario2/Javier_Ovalle.pdf){:target="_blank"} 
 21.11.2025 | Juan Pablo Cordón      | Curvas elípticas 
 21.11.2025 | Ian Castellanos        | La conjetura Monstruous Moonshine
 
